@@ -88,6 +88,55 @@ People who can no longer pay a loan or a credit card face two problems at once: 
 
 ---
 
+## 🧠 Inside the CRM — the engine behind the website
+
+Every enquiry, from any channel, lands in one in-house CRM that qualifies it, routes it to the right advisor, alerts the team and carries it all the way to a settled loan — while the customer watches progress in their own case room.
+
+![The Loan Settlement Buddy flow: leads from every channel, captured even if visitors leave, scored and auto-assigned, converted into cases, with a private customer case room](assets/business-flow.png)
+
+### Capabilities at a glance
+
+| Area | What it does |
+|---|---|
+| **Lead capture from every channel** | Website popup, 5-step assessment, quick eligibility check, contact form, consultation booking, Facebook / Instagram lead ads, Google ads, short links & QR codes, WhatsApp, staff "Add lead", returning customers |
+| **Prospect capture — nobody is lost** | A prospect is saved the moment a visitor gives a name and mobile, even if they close the form; unfinished assessments get resume links; anyone who leaves at the payment step gets a callback task |
+| **Smart qualification** | Instant scoring (hot · warm · nurture · unqualified), prospect funnel by stage and source, related leads by mobile, new-vs-existing customer tag |
+| **Automatic routing** | Strict round-robin, fewest-open-leads or manual assignment; open follow-ups move with the lead into the case |
+| **Notifications** | Bell, **email** and **WhatsApp** alerts per event — lead assigned, case assigned, customer activity, new review to approve — each switchable by the owner |
+| **Authentication & roles** | Mobile OTP, email OTP and password sign-in; owner / admin / case manager / customer roles; idle sign-out; sign out other devices; per-account and per-network rate limits |
+| **Privacy by default** | Phone numbers and emails masked in every list; each reveal is audit-logged; consent recorded for every customer |
+| **Case management** | 10-stage pipeline with SLA colours, documents and verification, lender offers, messages, email, credit, fees and receipts, letters and no-dues certificate, complete timeline |
+| **Customers** | Permanent customer numbers (LSB-CUS-…), one customer with many cases, full history on one profile |
+| **Consultations & payments** | Paid phone and video consultations with slot booking, payment-proof review, receipts and exports |
+| **Content** | Approve customer reviews, write and schedule blog posts with images, SEO fields and version history |
+| **Owner control** | ~140 settings — brand, contact, lead rules, calculators, templates, login methods, email, SMS, WhatsApp — changed without a developer |
+| **Reports & exports** | Business dashboard with period comparisons, funnel, CSV / Excel exports, audit log |
+
+### Screens from the CRM and the customer portal
+
+<sub>Shown with generated demo data — no real customer appears in these screenshots.</sub>
+
+| Business dashboard | Leads |
+|---|---|
+| ![Business dashboard](assets/crm/dashboard.png) | ![Leads](assets/crm/leads.png) |
+| **Lead details — contacts masked, reveal is logged** | **Leads board** |
+| ![Lead details](assets/crm/lead-drawer.png) | ![Leads board](assets/crm/leads-board.png) |
+| **Case workspace — offers, fees, letters, timeline** | **Cases pipeline** |
+| ![Case workspace](assets/crm/case-workspace.png) | ![Cases pipeline](assets/crm/cases-board.png) |
+| **Prospect funnel** | **Owner settings** |
+| ![Prospects](assets/crm/prospects.png) | ![Settings](assets/crm/settings.png) |
+
+<p align="center">
+  <img src="assets/crm/leads-phone.png" width="230" alt="Leads on a phone" />
+  &nbsp;&nbsp;
+  <img src="assets/crm/portal-dashboard-phone.png" width="230" alt="Customer portal dashboard on a phone" />
+  &nbsp;&nbsp;
+  <img src="assets/crm/portal-case-phone.png" width="230" alt="Customer case room on a phone" />
+</p>
+<p align="center"><sub>The CRM on a phone · the customer's dashboard · the customer's case room</sub></p>
+
+---
+
 ## 🏆 What sets it apart
 
 | | Typical settlement website | Loan Settlement Buddy |
