@@ -132,17 +132,7 @@ People who can no longer pay a loan or a credit card face two problems at once: 
 
 ### Architecture
 
-```mermaid
-flowchart LR
-  V[Visitors & customers] --> CF[Cloudflare]
-  S[Staff] --> CF
-  CF --> W[Next.js 16 app<br/>website · portal · CRM · API]
-  W --> DB[(PostgreSQL)]
-  W -->|/cms| C[Content admin<br/>reviews · blog]
-  C --> DB
-  W --> M[Email · WhatsApp · SMS]
-  W --> L[LiveKit video]
-```
+![Architecture: visitors and staff reach the Next.js app through Cloudflare; the app uses PostgreSQL, the content admin at /cms, and email, WhatsApp, SMS and LiveKit](assets/architecture.png)
 
 ---
 
