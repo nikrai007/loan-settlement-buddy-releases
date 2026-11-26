@@ -2,6 +2,46 @@
 
 Newest first. Versions follow `vMAJOR.MINOR.PATCH`.
 
+## v1.4.0 — 26 November 2026
+
+**Customer reviews and Guides & Blog.**
+
+**For visitors**
+- **Customer reviews** — read real reviews by loan type, and write your own in a minute. Every review is checked by our team before it appears, and we reply in public.
+- **Guides & Blog** — plain-language articles on settlement, CIBIL, your rights under the RBI rules and stopping harassment, grouped by topic, with search, contents and FAQs.
+- A cleaner menu: **Guides & Blog** and **About** now group related pages.
+- Clearer promises: an advisor calls back during business hours; one-to-one legal support and guidance.
+
+**For customers**
+- After your case is settled, your case room asks "How did we do?" — your review carries a **Verified customer** badge.
+
+**For our team**
+- A content admin, with the same staff login, to approve reviews and write, schedule and publish articles with images.
+
+## v1.3.0 — 26 November 2026
+
+**A quality round across the website, the portal and the team console.**
+- Forms show every missing field at once and clear each message as you fix it; Back and refresh keep your place in the assessment.
+- Calculators explain when a value is adjusted to the allowed range.
+- On phones, team tables open a detail sheet so nothing is hidden; dashboard numbers open the list behind them.
+- Safer staff tools: receipts and letters can't be issued twice by accident, and contact details stay masked.
+
+## v1.2.0 — 26 November 2026
+
+**A smarter enquiry flow.**
+- Your enquiry is saved as soon as you give your name and mobile — even if you close the form halfway.
+- Enquiries from the same mobile are linked, so one advisor sees your full history.
+- If you leave a consultation booking at the payment step, an advisor calls to help.
+- A mobile number is required everywhere, so we can always reach you.
+
+## v1.1.0 — 24 November 2026
+
+**Customer numbers, faster follow-up and security hardening.**
+- Every customer gets a permanent customer number; one customer can have many cases.
+- New enquiries reach an advisor automatically, and the team is alerted by bell, email or WhatsApp.
+- Customers who become clients can sign in with a mobile OTP straight away.
+- Security hardening: duplicate actions blocked, stricter checks on every form, letters only for your own cases.
+
 ## v1.0.0 — 22 November 2026
 
 The first full version of Loan Settlement Buddy: a complete website plus a private portal for every customer.
