@@ -7,7 +7,7 @@
 **India's loan-settlement platform — a full website, a private case room for every customer, and an in-house CRM that runs each settlement from first enquiry to the no-dues certificate.**
 
 [![Live site](https://img.shields.io/badge/live-loansettlementbuddy.com-b71d2b?style=for-the-badge)](https://loansettlementbuddy.com)
-[![Version](https://img.shields.io/badge/version-1.4.0-18262d?style=for-the-badge)](RELEASES.md)
+[![Version](https://img.shields.io/badge/version-1.4.1-18262d?style=for-the-badge)](RELEASES.md)
 [![Languages](https://img.shields.io/badge/languages-11-a30f1f?style=for-the-badge)](#-built-for-india)
 
 ![Next.js 16](https://img.shields.io/badge/Next.js-16-000000?logo=nextdotjs&logoColor=white)
@@ -205,6 +205,7 @@ Every enquiry, from any channel, lands in one in-house CRM that qualifies it, ro
 
 | Version | Date | Headline |
 |---|---|---|
+| [v1.4.1](RELEASES.md#v141--26-november-2026) | 26 Nov 2026 | Clearer savings (60%+ waiver*), fuller reviews, all languages |
 | [v1.4.0](RELEASES.md#v140--26-november-2026) | 26 Nov 2026 | Customer reviews, Guides & Blog, content admin |
 | [v1.3.0](RELEASES.md#v130--26-november-2026) | 26 Nov 2026 | Quality round: clearer forms, phone layouts, safer staff tools |
 | [v1.2.0](RELEASES.md#v120--26-november-2026) | 26 Nov 2026 | Smarter enquiry flow: prospects, related leads, callbacks |

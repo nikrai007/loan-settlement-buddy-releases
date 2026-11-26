@@ -2,6 +2,14 @@
 
 Newest first. Versions follow `vMAJOR.MINOR.PATCH`.
 
+## v1.4.1 — 26 November 2026
+
+**Clearer savings, fuller reviews.**
+- Settlement pages now say it plainly: the settlements we negotiate usually close at a **60%+ waiver\***, and some customers get 70–80%. *The final waiver is always the lender's decision.
+- The settlement savings calculator reflects the same range.
+- The customer reviews page always shows our customers' stories, with our reply under each one.
+- Every changed line is available in all 10 Indian languages.
+
 ## v1.4.0 — 26 November 2026
 
 **Customer reviews and Guides & Blog.**
